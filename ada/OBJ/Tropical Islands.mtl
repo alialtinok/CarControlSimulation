@@ -1,0 +1,446 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _46
+Ka 0.000000 0.000000 0.000000
+Kd 0.937255 0.929412 0.909804
+Ks 0.330000 0.330000 0.330000
+
+newmtl _6
+Ka 0.000000 0.000000 0.000000
+Kd 0.231373 0.317647 0.231373
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_6.png
+
+newmtl _1
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.454902 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_1.jpg
+
+newmtl _31
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.717647 0.701961
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_31.png
+
+newmtl ________4
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.454902 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/________4.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl okna_4
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.525490 0.525490
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/okna_4.jpg
+
+newmtl M_25
+Ka 0.000000 0.000000 0.000000
+Kd 0.294118 0.407843 0.486275
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_25.jpg
+
+newmtl M_14_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.443137 0.521569 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_14_2.jpg
+
+newmtl g2_
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.603922 0.686275
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/g2_.jpg
+
+newmtl g1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.615686 0.709804
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/g1_.jpg
+
+newmtl _75
+Ka 0.000000 0.000000 0.000000
+Kd 0.494118 0.650980 0.721569
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_75.jpg
+
+newmtl h7_
+Ka 0.000000 0.000000 0.000000
+Kd 0.454902 0.603922 0.686275
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/h7_.jpg
+
+newmtl M_60
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.423529 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_60.jpg
+
+newmtl M_17_3__5
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.380392 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_17_3__5.jpg
+
+newmtl okna_30
+Ka 0.000000 0.000000 0.000000
+Kd 0.529412 0.623529 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/okna_30.jpg
+
+newmtl okna_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.490196 0.615686 0.662745
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/okna_3.jpg
+
+newmtl ________2
+Ka 0.000000 0.000000 0.000000
+Kd 0.576471 0.639216 0.690196
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/________2.jpg
+
+newmtl M_35
+Ka 0.000000 0.000000 0.000000
+Kd 0.384314 0.454902 0.529412
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_35.jpg
+
+newmtl M_32
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.525490 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_32.jpg
+
+newmtl M_7_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.568627 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_7_1.jpg
+
+newmtl _82
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.533333 0.592157
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_82.jpg
+
+newmtl M_7760_18_
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.498039 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_7760_18_.jpg
+
+newmtl M_7760_1_
+Ka 0.000000 0.000000 0.000000
+Kd 0.533333 0.654902 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_7760_1_.jpg
+
+newmtl ___3
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.392157 0.454902
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/___3.jpg
+
+newmtl M_109
+Ka 0.000000 0.000000 0.000000
+Kd 0.435294 0.509804 0.576471
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_109.jpg
+
+newmtl M_16_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.494118 0.517647
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_16_1.jpg
+
+newmtl _11
+Ka 0.000000 0.000000 0.000000
+Kd 0.745098 0.815686 0.823529
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_11.png
+
+newmtl Metal_Aluminum_Anodized
+Ka 0.000000 0.000000 0.000000
+Kd 0.792157 0.819608 0.858824
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Metal_Aluminum_Anodized.jpg
+
+newmtl _10
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.533333 0.623529
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_10.png
+
+newmtl _13
+Ka 0.000000 0.000000 0.000000
+Kd 0.729412 0.729412 0.729412
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_13.png
+
+newmtl _18
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.388235 0.388235
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_18.png
+
+newmtl _30
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.635294 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_30.png
+
+newmtl _23
+Ka 0.000000 0.000000 0.000000
+Kd 0.168627 0.411765 0.533333
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_23.png
+
+newmtl Steel_Brushed_Stainless
+Ka 0.000000 0.000000 0.000000
+Kd 0.643137 0.658824 0.666667
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Steel_Brushed_Stainless.jpg
+
+newmtl _9
+Ka 0.000000 0.000000 0.000000
+Kd 0.282353 0.407843 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_9.png
+
+newmtl _14
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.262745 0.266667
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_14.png
+
+newmtl _3
+Ka 0.000000 0.000000 0.000000
+Kd 0.619608 0.611765 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_3.png
+
+newmtl _17
+Ka 0.000000 0.000000 0.000000
+Kd 0.698039 0.698039 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_17.png
+
+newmtl _15
+Ka 0.000000 0.000000 0.000000
+Kd 0.258824 0.258824 0.258824
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_15.png
+
+newmtl _22
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.482353 0.552941
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_22.png
+
+newmtl a4_5_
+Ka 0.000000 0.000000 0.000000
+Kd 0.368627 0.494118 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/a4_5_.jpg
+
+newmtl g3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.474510 0.635294 0.749020
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/g3_.jpg
+
+newmtl M_101
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.498039 0.549020
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_101.jpg
+
+newmtl h3_
+Ka 0.000000 0.000000 0.000000
+Kd 0.450980 0.556863 0.639216
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/h3_.jpg
+
+newmtl build2
+Ka 0.000000 0.000000 0.000000
+Kd 0.458824 0.537255 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/build2.jpg
+
+newmtl okna1
+Ka 0.000000 0.000000 0.000000
+Kd 0.549020 0.560784 0.498039
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/okna1.jpg
+
+newmtl M_11
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.458824 0.521569
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_11.jpg
+
+newmtl Windows_balc_left_5_16_3
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.529412 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Windows_balc_left_5_16_3.jpg
+
+newmtl M_38
+Ka 0.000000 0.000000 0.000000
+Kd 0.486275 0.560784 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_38.jpg
+
+newmtl Image19
+Ka 0.000000 0.000000 0.000000
+Kd 0.352941 0.541176 0.580392
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Image19.jpg
+
+newmtl ___2
+Ka 0.000000 0.000000 0.000000
+Kd 0.396078 0.450980 0.494118
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/___2.jpg
+
+newmtl Image8
+Ka 0.000000 0.000000 0.000000
+Kd 0.380392 0.537255 0.556863
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Image8.jpg
+
+newmtl Windows_balc_left_5_16_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.415686 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Windows_balc_left_5_16_5.jpg
+
+newmtl _2
+Ka 0.000000 0.000000 0.000000
+Kd 0.427451 0.525490 0.615686
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_2.jpg
+
+newmtl M_7760_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.372549 0.498039 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_7760_13.jpg
+
+newmtl WashingtonConventionCenter_18
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.474510 0.494118
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/WashingtonConventionCenter_18.jpg
+
+newmtl WashingtonConventionCenter_13
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.384314 0.403922
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/WashingtonConventionCenter_13.jpg
+
+newmtl WashingtonConventionCenter_17
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.556863 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/WashingtonConventionCenter_17.jpg
+
+newmtl Washington_Convention_Center_04
+Ka 0.000000 0.000000 0.000000
+Kd 0.525490 0.509804 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Washington_Convention_Center_04.jpg
+
+newmtl Washington_Convention_Center_01
+Ka 0.000000 0.000000 0.000000
+Kd 0.541176 0.525490 0.482353
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Washington_Convention_Center_01.jpg
+
+newmtl WashingtonConventionCenter_030
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.788235 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/WashingtonConventionCenter_030.jpg
+
+newmtl WashingtonConventionCenter_10
+Ka 0.000000 0.000000 0.000000
+Kd 0.482353 0.498039 0.478431
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/WashingtonConventionCenter_10.jpg
+
+newmtl M_6
+Ka 0.000000 0.000000 0.000000
+Kd 0.447059 0.576471 0.682353
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_6.jpg
+
+newmtl M_33
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.600000 0.678431
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/M_33.jpg
+
+newmtl _19
+Ka 0.000000 0.000000 0.000000
+Kd 0.596078 0.603922 0.596078
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_19.jpg
+
+newmtl Vegetation_Grass_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.243137 0.400000 0.133333
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Vegetation_Grass_Original.jpg
+
+newmtl Pavers_Flagstone_Gray
+Ka 0.000000 0.000000 0.000000
+Kd 0.635294 0.635294 0.635294
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/Pavers_Flagstone_Gray.jpg
+
+newmtl _39
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.341176 0.337255
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_39.jpg
+
+newmtl _Gray6_
+Ka 0.000000 0.000000 0.000000
+Kd 0.419608 0.419608 0.419608
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_Gray6_.jpg
+
+newmtl _47
+Ka 0.000000 0.000000 0.000000
+Kd 0.509804 0.517647 0.509804
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_47.jpg
+
+newmtl _51
+Ka 0.000000 0.000000 0.000000
+Kd 0.388235 0.698039 0.694118
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_51.jpg
+
+newmtl _25
+Ka 0.000000 0.000000 0.000000
+Kd 0.333333 0.537255 0.545098
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_25.jpg
+
+newmtl _52
+Ka 0.000000 0.000000 0.000000
+Kd 0.078431 0.494118 0.490196
+Ks 0.330000 0.330000 0.330000
+map_Kd Tropical Islands/_52.jpg
+
